@@ -23,4 +23,4 @@ Learn how to clean and prepare raw data for machine learning.
 6. Visualized outliers using boxplots
 
 🖼️ Output Preview
-Boxplots of Age and Fare before and after scaling.
+- Boxplots of Age and Fare before and after scaling.

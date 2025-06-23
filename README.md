@@ -21,6 +21,7 @@
 4. Encoded categorical features into numeric
 5. Standardized numerical columns
 6. Visualized outliers using boxplots
+7. Removed outliers in 'Age' and 'Fare' columns using the IQR method
 
 🖼️ Output Preview
-- Boxplots of Age and Fare before and after scaling.
+- Boxplots of Age and Fare before and after scaling

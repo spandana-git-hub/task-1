@@ -1,7 +1,7 @@
 # Day 01 - Data Cleaning & Preprocessing
 
 📌 Task Objective
-Learn how to clean and prepare raw data for machine learning.
+- Learn how to clean and prepare raw data for machine learning.
 
 🧰 Tools Used
 - Python
